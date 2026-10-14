@@ -1,0 +1,6 @@
+{
+  "name": "NexusOS",
+  "description": "A fully working simulated operating system with multi-window desktop, terminal CLI, file system explorer, web browser, games, media player, and system utilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
